@@ -1,0 +1,4 @@
+Tags: tag:
+Mnemonic: instr12
+Values: operation 
+Comments: ;comment
